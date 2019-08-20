@@ -1,21 +1,3 @@
 # Quaternion
-
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `quaternion` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:quaternion, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/quaternion](https://hexdocs.pm/quaternion).
-
+An (unfinished) high-reliability, scalable [Matrix](https://matrix.org) server implementation written in Elixir and
+maybe a bit of Rust for the more computation-heavy parts.

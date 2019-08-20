@@ -1,4 +1,4 @@
-defmodule Quaternion do
+defmodule Matrix do
   @moduledoc false
 
 end
