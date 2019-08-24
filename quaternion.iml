@@ -14,8 +14,10 @@
       <excludeFolder url="file://$MODULE_DIR$/doc" />
       <excludeFolder url="file://$MODULE_DIR$/logs" />
     </content>
+    <orderEntry type="jdk" jdkName="Elixir 1.9.0" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="cowboy" level="project" />
     <orderEntry type="library" name="plug" level="project" />
+    <orderEntry type="library" name="httpoison" level="project" />
   </component>
 </module>

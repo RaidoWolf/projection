@@ -1,4 +1,4 @@
-defmodule Quaternion.Application.Supervisor.Supervisor do
+defmodule Quaternion.Application.Supervisor do
   @moduledoc false
 
 

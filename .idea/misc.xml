@@ -3,7 +3,7 @@
   <component name="ClojureProjectResolveSettings">
     <currentScheme>IDE</currentScheme>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="Erlang 22" project-jdk-type="Erlang SDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>
